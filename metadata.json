@@ -1,0 +1,5 @@
+{
+  "name": "Barbearia Prime",
+  "description": "Aplicativo moderno e elegante para agendamento de serviços em barbearia.",
+  "requestFramePermissions": ["camera"]
+}
